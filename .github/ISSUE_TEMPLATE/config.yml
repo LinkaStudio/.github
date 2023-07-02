@@ -1,8 +1,12 @@
 blank_issues_enabled: true
 contact_links:
   - name: Discussion
-    url: https://github.com/Ttiki/Ttiki/discussions
+    url: https://github.com/LinkaStudio/LinkaStudio/discussions
     about: Join the general discussion! We talk about everything and anything.
-  - name: Mail
-    url: mailto:clement64.combier@gmail.com
-    about: Send me a mail
+  - name: Support mail
+    url: mailto:mailto:contact@linka-studio.com
+    about: Send a mail to support
+  - name: Press and media contact
+    url: mailto:press.contact@linka-studio.com
+    about: Send a press inquery
+

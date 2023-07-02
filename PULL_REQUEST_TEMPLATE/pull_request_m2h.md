@@ -32,5 +32,5 @@ The best way to propose a feature is to open an issue first and discuss your ide
 >
 >_Now, what this is for is to describe the changes you have made here to communicate why we should accept this pull request. **Make sure to point to the correct issue if related to any!**_
 >
->_**Always follow the [contribution guidelines](url/tp/repo/code_of_conduct) guidelines when submitting a pull request.
+>_**Always follow the [contribution guidelines]([url/tp/repo/code_of_conduct](https://github.com/LinkaStudio/.github/blob/main/CODE_OF_CONDUCT.md)) guidelines when submitting a pull request.
 Also, don't forget to delete these italics paragraphs before submiting your PR.**_
