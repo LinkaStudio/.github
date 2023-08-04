@@ -15,7 +15,7 @@ body:
     label: New functionnality
     description: A concise description of what you're new functionnality is
   validations:
-    required: require
+    required: true
 - type: textarea
   attributes:
     label: Anything else?
