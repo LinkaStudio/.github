@@ -19,7 +19,7 @@ body:
     - label: Something is missing
     - label: Credit error
     - label: Other (_Add details below_)
-    required: true
+      required: true
 - type: textarea
   attributes:
     label: Documentation issue description
